@@ -17,3 +17,9 @@ Other files in the /test directory are unit tests.
 Now that this is built, do the following to run it:
 
 In the base directory, run `./gradlew bootRun` (this needs CTRL+C to kill though)
+
+## CONTAINERS
+
+Gradle: [https://codefresh.io/docs/docs/learn-by-example/java/gradle/]
+
+Deploying WAR: [https://stackoverflow.com/questions/39664808/dockerfile-with-windows-path] and [https://hiberstack.com/deploy-war-file-on-tomcat-docker-container/]
